@@ -1,16 +1,16 @@
-## Hi there 👋
+# HELLO
 
-<!--
-**Franciscootrejo/franciscootrejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Solo un *chico* intentando ser comunicador visual mientras hace **código**
 
-Here are some ideas to get you started:
+Adivina cual es el orden de mis *artitas favoritas*:
+- Billie Eilish 
+- Lana del Rey 
+- Adele 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Chilaquiles ideales**
+1. Totopos crujietes 
+2. Salsa verde
+3. Costilla 
+4. Crema 
+5. Queso 
+6. Cebolla
